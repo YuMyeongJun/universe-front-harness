@@ -1,4 +1,4 @@
-# qa-automation
+# front-qa-pipeline
 
 정책에서 테스트 케이스(TC)를 만들고, 그 TC 로 테스트를 자동화한다.
 
